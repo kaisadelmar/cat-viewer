@@ -1,0 +1,19 @@
+
+body {
+  padding: 45px;
+}
+
+ button {
+   width: 150px;
+   height: 20px;
+   margin: 15px;
+ }
+
+ img {
+   padding: 15px;
+   display: inline-block;
+ }
+
+ .cat img {
+   display: inline-block;
+ }
